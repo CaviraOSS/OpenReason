@@ -1,6 +1,6 @@
 # OpenReason
 
-Adaptive AI reasoning with constitutional constraints
+Adaptive AI reasoning with constitutional constraints, using LangChain for AI API
 
 [![npm](https://img.shields.io/npm/v/openreason)](https://www.npmjs.com/package/openreason) [![license](https://img.shields.io/badge/license-Apache-blue.svg)](LICENSE)
 
